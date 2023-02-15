@@ -6,7 +6,7 @@ This Python script automatically moves a .hex file to a devboard on build. It si
 * Latest PlatformIO installation
 
 ## Installation
-1. Clone this repository `git clone https://github.com/Cuprum77/platformio-mass-storage-upload.git`
+1. Clone this repository `git clone https://github.com/Cuprum77/PlatformIO-Hex2MassStorage.git`
 
 ## Usage
 1. Place the Python script in the same directory as your PlatformIO project
