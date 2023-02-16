@@ -16,8 +16,8 @@ This Python script automatically moves a .hex file to a devboard on build. It si
 extra_scripts = post:extra_script.py
 device_label = {DEVICE LABEL}
 ```
-4. Change the `{DEVICE LABEL}` to the name your devboard shows up as
-For example, if your board shows up as `DEVICE` you change it to `device_label = DEVICE`
+4. Change the `{DEVICE LABEL}` to the name your devboard shows up as.
+For example, if your board shows up as `DEVICE` you change it to `device_label = DEVICE`.
 
 ## Contributing
 If you find a bug or have an idea for a feature, please open an issue or submit a pull request.
